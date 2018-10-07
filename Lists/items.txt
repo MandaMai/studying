@@ -1,0 +1,9 @@
+Harry Potter and the Sorcerer's Stone, 1
+Harry Potter and the Chamber of Secrets, 2
+Harry Potter and the Prisoner of Azkaban, 3
+Harry Potter and the Goblet of Fire, 4
+Harry Potter and the Order of Phoenix, 5
+Harry Potter and the Half-Blood Prince, 6
+Harry Potter and the Deathly Hallows, 7
+Fantastic Beasts and Where to Find Them, 8
+Fantastic Beasts and the Crimes of Grindelwald, 9

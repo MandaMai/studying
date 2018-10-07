@@ -1,0 +1,20 @@
+1|Write a program that stores the number of occurrences of words in a text.  Your program should display each owork in a text just once as well as the number of times the word occurs in the text.  Display the words in sorted order.|Category|Level|Recommended Data Structure|Required
+2|Write an example that shows the shortest path between two Nodes in a graph|Intermediate|Algorithm|Graph|Required
+3|Bubble Sort|Sort|||Required
+4|Selection Sort|Sort|||Required
+5|Insertion Sort|Sort|||Required
+6|Shellsort|Sort|||Optional
+7|Mergesort|Sort|||Required
+8|Quicksort|Sort|||Required
+9|The Knapsack Problem pg 452 in Data Structures Book and Greedy version on page 461|Intermediate|Dynamic Programming|Unknown|Required
+10|Coin Changing Problem pg 458 in Data Structures Book|Intermediate|Greedy Algorithms|Unknown|Required
+11|Longest Common substring pg 445 in Data Structures Book|Intermediate|Dynamic Programming|Unknown|Required
+12|||||
+13|||||
+14|||||
+15|||||
+16|||||
+17|||||
+18|||||
+19|||||
+20|||||
