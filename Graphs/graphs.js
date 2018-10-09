@@ -44,12 +44,11 @@ function showGraph() {
 }
 
 function depthFirstSearch(v) {
-    console.log('PERFORM DEPTH FIRST SEARCH');
     this.marked[v] = true;
     if(this.adj[v] !== undefined) {
         console.log('Visited vertex: ' + v);
     }
-    for(var i = 0; i < this.adj[v].length; i++) {
+    for(var i = 0; i < this.adj[v].length; ++i) {
         var w = this.adj[v][i];
         if(!this.marked[w]) {
             this.depthFirstSearch(w);
